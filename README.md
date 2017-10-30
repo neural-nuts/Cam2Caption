@@ -1,6 +1,6 @@
 # Cam2Caption
 An Android application which converts camera feed to natural language captions in real time.
-The app uses a trained model generated through [image-caption-generator](https://github.com/neural-nuts/image-caption-generator).
+The app uses our customized pre-trained model generated through [image-caption-generator](https://github.com/neural-nuts/image-caption-generator).
 
 The trained model to run this app can be obtained [here](https://drive.google.com/open?id=0ByhzM2YklhADNmk4cEN2MTA5U0E).
 
