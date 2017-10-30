@@ -37,6 +37,7 @@ Here is a quick preview of the app which was made by pointing the device camera 
 <br>
 
 ### Notes: 
-1. To create a tensorflow android app from scratch please follow this brilliant [tutorial](https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html) by Omid Alemi
+1. To create a tensorflow android app from scratch please follow this brilliant [tutorial](https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html) by Omid Alemi.
+2. Currently the app is tested only for Huawei Honor 6x
 
 
