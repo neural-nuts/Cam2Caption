@@ -8,8 +8,8 @@ The trained model to run this app can be obtained [here](https://drive.google.co
 1. Android-Sdk
 2. Android-Studio
 3. Tensorflow Java Library
-  - Already provided build #44 in this repository. Latest nightly builds can be obtained frome [here](https://ci.tensorflow.org/view/Nightly/job/nightly-android/)
-  - *Warning*: Did not test this app with builds other that #44  
+    - Already provided build #44 in this repository. Latest nightly builds can be obtained frome [here](https://ci.tensorflow.org/view/Nightly/job/nightly-android/)
+    - *Warning*: Did not test this app with builds other that #44
 
 ## Data Pre-Requisites
 1. Trained model from [image-caption-generator](https://github.com/neural-nuts/image-caption-generator)
@@ -29,4 +29,13 @@ The app is just a prototype, which uses our optimized and skimmed-down model fro
 
 Note: Due to lack of computation power our model is not very well trained.
 
+## Preview
 Here is a quick preview of the app which was made using a slideshow running on a screen.
+![Alt Text](https://github.com/neural-nuts/Cam2Caption/blob/master/preview.gif)
+
+
+
+### Notes: 
+1. To create a tensorflow android app from scratch please follow this brilliant [tutorial](https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html) by Omid Alemi
+
+
