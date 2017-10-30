@@ -33,7 +33,7 @@ Note: Due to lack of computation power our model is not very well trained.
 Here is a quick preview of the app which was made by pointing the device camera towards a slideshow running on a screen.
 <a href="url"><img src="https://github.com/neural-nuts/Cam2Caption/blob/master/preview.gif" align="left" height="800" width="450" ></a>
 
-
+<br>
 
 ### Notes: 
 1. To create a tensorflow android app from scratch please follow this brilliant [tutorial](https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html) by Omid Alemi
