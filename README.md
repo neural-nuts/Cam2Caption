@@ -30,7 +30,8 @@ The app is just a prototype, which uses our optimized and skimmed-down model fro
 Note: Due to lack of computation power our model is not very well trained.
 
 ## Preview
-Here is a quick preview of the app which was made by pointing the device camera towards a slideshow running on a screen.
+Here is a quick preview of the app which was made by pointing the device camera towards a slideshow running on a screen. 
+#TO-DO: Create a real preview by testing the app on streets.
 <a href="url"><img src="https://github.com/neural-nuts/Cam2Caption/blob/master/preview.gif" align="left" height="800" width="450" ></a>
 
 <br>
