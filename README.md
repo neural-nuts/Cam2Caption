@@ -1,6 +1,7 @@
 # Cam2Caption
 An Android application which converts camera feed to natural language captions in real time.
-The app uses our customized pre-trained model generated through [image-caption-generator](https://github.com/neural-nuts/image-caption-generator).
+The app uses our customized pre-trained model generated through [image-caption-generator](https://github.com/neural-nuts/image-caption-generator). 
+Using this model the app takes **1-2 second** to caption a live camera frame on Huawei Honor 6x.
 
 The trained model to run this app can be obtained [here](https://drive.google.com/open?id=0ByhzM2YklhADNmk4cEN2MTA5U0E).
 
@@ -9,12 +10,11 @@ The trained model to run this app can be obtained [here](https://drive.google.co
 2. Android-Studio
 3. Tensorflow Java Library
     - Already provided build #44 in this repository. Latest nightly builds can be obtained frome [here](https://ci.tensorflow.org/view/Nightly/job/nightly-android/)
-    - *Warning*: Did not test this app with builds other that #44
+    - **Warning**: Did not test this app with builds other that #44
 
 ## Data Pre-Requisites
 1. Trained model from [image-caption-generator](https://github.com/neural-nuts/image-caption-generator)
 2. Word IDs to Word map pickle from [image-caption-generator](https://github.com/neural-nuts/image-caption-generator) currently provided in `Application/src/main/assets`
-
 
 ## Instructions
 To build this app for your android phone-
@@ -34,10 +34,8 @@ Here is a quick preview of the app which was made by pointing the device camera 
 #TO-DO: Create a real preview by testing the app on streets.
 <a href="url"><img src="https://github.com/neural-nuts/Cam2Caption/blob/master/preview.gif" align="left" height="800" width="450" ></a>
 
-<br>
-
-### Notes: 
+## Notes: 
 1. To create a tensorflow android app from scratch please follow this brilliant [tutorial](https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html) by Omid Alemi.
-2. Currently the app is tested only for Huawei Honor 6x
+2. Currently the app is tested for Huawei Honor 6x only.
 
 
