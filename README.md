@@ -30,9 +30,9 @@ The app is just a prototype, which uses our optimized and skimmed-down model fro
 Note: Due to lack of computation power our model is not very well trained.
 
 ## Preview
-Here is a quick preview of the app which was made by pointing the device camera towards a slideshow running on a screen. 
+Here is a quick preview of the app which was made by pointing the device camera towards a slideshow running on a screen and some real-life scenes. 
 #TO-DO: Create a real preview by testing the app on streets.
-<a href="url"><img src="https://github.com/neural-nuts/Cam2Caption/blob/master/preview.gif" align="left" height="800" width="450" ></a>
+<a href="url"><img src="https://github.com/neural-nuts/Cam2Caption/blob/master/preview.gif" align="left" height="600" width="350" ></a>
 
 ## Notes: 
 1. To create a tensorflow android app from scratch please follow this brilliant [tutorial](https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html) by Omid Alemi.
