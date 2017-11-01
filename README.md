@@ -6,7 +6,7 @@ Using this model the app takes **1-2 second** to caption a live camera frame on 
 The trained model to run this app can be obtained [here](https://drive.google.com/open?id=0ByhzM2YklhADNmk4cEN2MTA5U0E).
 
 ## Software Pre-Requisites
-1. Android-Sdk
+1. Android-Sdk for > Kitkat
 2. Android-Studio
 3. Tensorflow Java Library
     - Already provided build #44 in this repository. Latest nightly builds can be obtained frome [here](https://ci.tensorflow.org/view/Nightly/job/nightly-android/)
