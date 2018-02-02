@@ -1,7 +1,7 @@
 # Cam2Caption
 An Android application which converts camera feed to natural language captions in real time.
 The app uses our customized pre-trained model generated through [image-caption-generator](https://github.com/neural-nuts/image-caption-generator). 
-Using this model the app takes **1-2 second** to caption a live camera frame on Huawei Honor 6x.
+Using this model the app takes **1-2 second(s)** to caption a live camera frame on Huawei Honor 6x.
 
 The trained model to run this app can be obtained [here](https://drive.google.com/open?id=0ByhzM2YklhADNmk4cEN2MTA5U0E).
 
@@ -32,10 +32,23 @@ Note: Due to lack of computation power our model is not very well trained.
 ## Preview
 Here is a quick preview of the app which was made by pointing the device camera towards a slideshow running on a screen and some real-life scenes. 
 #TO-DO: Create a real preview by testing the app on streets.
+
 <a href="url"><img src="https://github.com/neural-nuts/Cam2Caption/blob/master/preview.gif" align="left" height="600" width="350" ></a>
 
-## Notes: 
+## Notes
 1. To create a tensorflow android app from scratch please follow this brilliant [tutorial](https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html) by Omid Alemi.
 2. Currently the app is tested for Huawei Honor 6x only.
 
+## Citation
+
+If you use our model or code in your research, please cite the paper:
+
+```
+@article{Mathur2017,
+  title={Camera2Caption: A Real-time Image Caption Generator},
+  author={Pranay Mathur and Aman Gill and Aayush Yadav and Anurag Mishra and Nand Kumar Bansode},
+  journal={IEEE Conference Publication},
+  year={2017}
+}
+```
 
